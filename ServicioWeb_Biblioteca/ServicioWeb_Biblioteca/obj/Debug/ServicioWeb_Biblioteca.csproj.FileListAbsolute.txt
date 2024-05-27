@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\ServicioWeb_Biblioteca\ServicioWeb_Biblioteca\bin\Debug\ServicioWeb_Biblioteca.dll.config
+C:\Users\Angel\source\repos\ServicioWeb_Biblioteca\ServicioWeb_Biblioteca\bin\Debug\ServicioWeb_Biblioteca.dll
+C:\Users\Angel\source\repos\ServicioWeb_Biblioteca\ServicioWeb_Biblioteca\bin\Debug\ServicioWeb_Biblioteca.pdb
+C:\Users\Angel\source\repos\ServicioWeb_Biblioteca\ServicioWeb_Biblioteca\obj\Debug\ServicioWeb_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ServicioWeb_Biblioteca\ServicioWeb_Biblioteca\obj\Debug\ServicioWeb_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ServicioWeb_Biblioteca\ServicioWeb_Biblioteca\obj\Debug\ServicioWeb_Biblioteca.dll
+C:\Users\Angel\source\repos\ServicioWeb_Biblioteca\ServicioWeb_Biblioteca\obj\Debug\ServicioWeb_Biblioteca.pdb
